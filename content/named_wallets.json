@@ -1,0 +1,14 @@
+[
+ {"address": "0xbCee2DEfb7cF136480e3619Cf93E8129059977aF", "name": "Team (Locked)", "group": "reserved", "source": "treasury"},
+ {"address": "0x9a83957d3399CBBCbEf2112797B4a5B8e58C63d4", "name": "Governance (Locked)", "group": "reserved", "source": "treasury"},
+ {"address": "0x9E678318539D7C98057e9F89c58fb8f99752FaeA", "name": "Governance (Unlocked)", "group": "reserved", "source": "treasury"},
+ {"address": "0xAC27381EF74457c1258d54a808C2461eEdc56270", "name": "USYD/CSIRO (Locked)", "group": "reserved", "source": "treasury"},
+ {"address": "0xeF816D556E01BC194AE302999930EAcD6dc4e566", "name": "Investors", "group": "reserved", "source": "treasury"},
+ {"address": "0x7473fEAf836b5319D9190d8367991Dc6ef33C16d", "name": "Reserve", "group": "reserved", "source": "treasury"},
+ {"address": "0xC5c131572d232512973e79204B93C2c1D57c879D", "name": "Ecosystem (Locked)", "group": "reserved", "source": "treasury"},
+ {"address": "0xE0c701c40166BBD8D5f5Ec33c123F0A03E902DF7", "name": "Ecosystem 2 (Unlocked)", "group": "reserved", "source": "treasury"},
+ {"address": "0x415cAD8Fc89F75a63C5B830E06460EEcdE083C9F", "name": "Ecosystem (Unlocked)", "group": "reserved", "source": "treasury"},
+ {"address": "0x6ed1f491e2d31536d6561f6bdb2adc8f092a6076", "name": "Wrapped RBNT (WRBNT) contract", "group": "wrbnt", "source": "brief"},
+ {"address": "0x43A1dc107BBb06dF266278056055AE7Fc5bd2817", "name": "Reddex RBNT staking pool, no lock", "group": "staking", "source": "brief"},
+ {"address": "0x5E8040e85D0E6363D798a43BEa939C026449946d", "name": "Reddex RBNT staking pool, 365 day lock", "group": "staking", "source": "brief"}
+]

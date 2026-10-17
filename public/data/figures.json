@@ -1,0 +1,429 @@
+{
+ "quarter": {
+  "name": "Q3 2026",
+  "start": "2026-07-01T00:00:00Z",
+  "end": "2026-10-01T00:00:00Z"
+ },
+ "start_block": 3025809,
+ "end_block": 3209414,
+ "start_block_time": 1782863839,
+ "end_block_time": 1790812655,
+ "fetched_utc": "2026-10-17T18:25:23Z",
+ "listing_fetched_utc": "2026-10-17T21:00:00Z",
+ "listing_count": 595000,
+ "listing_approx_total": 742742,
+ "listing_read_to_rbnt": 5,
+ "read_from_chain": 595880,
+ "listing_check": {
+  "unmoved_addresses_compared": 594053,
+  "exact": 13184,
+  "rounded_in_listing": 12735,
+  "different": 568134
+ },
+ "labelled_on_routescan": {
+  "0x6ed1f491e2d31536d6561f6bdb2adc8f092a6076": "Wrapped RBNT"
+ },
+ "start_total_native": 9977253040.80515,
+ "start_total_positions": 9977253040.80515,
+ "start_wrbnt_supply": 1819066450.6643624,
+ "start_wrbnt_contract_rbnt": 1819066450.6643624,
+ "start_wrbnt_held_by_holders": 1819066450.6643624,
+ "end_total_native": 9975816305.061012,
+ "end_total_positions": 9975816305.061012,
+ "end_wrbnt_supply": 1736902022.3492532,
+ "end_wrbnt_contract_rbnt": 1736902022.3492532,
+ "end_wrbnt_held_by_holders": 1736902022.3492532,
+ "burned_in_quarter": 1999924.3489305226,
+ "where": {
+  "Redbelly reserved wallets": {
+   "start": 5974773423.474407,
+   "end": 5930961030.244353,
+   "start_pct": 59.88395201603759,
+   "end_pct": 59.45339056850325
+  },
+  "Reddex pools: staked RBNT": {
+   "start": 635763148.281773,
+   "end": 751251007.4696295,
+   "start_pct": 6.372126132128927,
+   "end_pct": 7.530722143394909
+  },
+  "Reddex pools: reward funds": {
+   "start": 3299174.6173063344,
+   "end": 3525544.694634995,
+   "start_pct": 0.03306696345991538,
+   "end_pct": 0.03534091433546533
+  },
+  "Wrapped RBNT contract (backs WRBNT one to one)": {
+   "start": 1819066450.6643624,
+   "end": 1736902022.3492532,
+   "start_pct": 18.23213707445037,
+   "end_pct": 17.411126761306477
+  },
+  "Labelled exchange wallets": {
+   "start": 0.0,
+   "end": 0.0,
+   "start_pct": 0.0,
+   "end_pct": 0.0
+  },
+  "Other addresses named on Routescan": {
+   "start": 0.0,
+   "end": 0.0,
+   "start_pct": 0.0,
+   "end_pct": 0.0
+  },
+  "Other contracts": {
+   "start": 435049525.1139698,
+   "end": 440045718.2047831,
+   "start_pct": 4.360413866769706,
+   "end_pct": 4.411124911968712
+  },
+  "Other wallets": {
+   "start": 1109301318.65333,
+   "end": 1113130982.0983589,
+   "start_pct": 11.118303947153485,
+   "end_pct": 11.15829470049119
+  }
+ },
+ "bands": {
+  "100 million and over": {
+   "start": 7,
+   "end": 7,
+   "rbnt_start": 2203276116.4628186,
+   "rbnt_end": 2150909446.510596
+  },
+  "10 million to 100 million": {
+   "start": 25,
+   "end": 28,
+   "rbnt_start": 996501629.7215322,
+   "rbnt_end": 1064093633.6761613
+  },
+  "1 million to 10 million": {
+   "start": 191,
+   "end": 194,
+   "rbnt_start": 505103385.567897,
+   "rbnt_end": 528099813.1000063
+  },
+  "100,000 to 1 million": {
+   "start": 824,
+   "end": 819,
+   "rbnt_start": 245323554.01957002,
+   "rbnt_end": 248977114.12589946
+  },
+  "10,000 to 100,000": {
+   "start": 1232,
+   "end": 1233,
+   "rbnt_start": 43134222.767313235,
+   "rbnt_end": 43331798.39774903
+  },
+  "1,000 to 10,000": {
+   "start": 1183,
+   "end": 1214,
+   "rbnt_start": 4559432.992999524,
+   "rbnt_end": 4627646.755419387
+  },
+  "100 to 1,000": {
+   "start": 2396,
+   "end": 2455,
+   "rbnt_start": 709621.6677124228,
+   "rbnt_end": 723965.3872981487
+  },
+  "1 to 100": {
+   "start": 41005,
+   "end": 41073,
+   "rbnt_start": 528292.9165828672,
+   "rbnt_end": 529727.7794710399
+  },
+  "under 1": {
+   "start": 10839,
+   "end": 10953,
+   "rbnt_start": 8248.709336827835,
+   "rbnt_end": 8327.283582401276
+  }
+ },
+ "holders_start_1plus": 46862,
+ "holders_start_any": 57702,
+ "community_start_rbnt": 3999144504.825763,
+ "community_start_contracts_rbnt": 2179708193.0191684,
+ "community_start_contracts_1plus": 95,
+ "holders_end_1plus": 47022,
+ "holders_end_any": 57976,
+ "community_end_rbnt": 4041301473.016183,
+ "community_end_contracts_rbnt": 2082792604.2371151,
+ "community_end_contracts_1plus": 101,
+ "holders_new_1plus": 248,
+ "holders_left_1plus": 88,
+ "holders_both_1plus": 46774,
+ "top10_share_start": 60.99671841032512,
+ "top10_share_end": 59.444757655296684,
+ "top100_share_start": 87.66534493607264,
+ "top100_share_end": 87.2666580492427,
+ "top1000_share_start": 98.65630025043104,
+ "top1000_share_end": 98.66050779063939,
+ "top10000_share_start": 99.99304638263294,
+ "top10000_share_end": 99.99303938738882,
+ "gini_start": 0.9971035090323455,
+ "gini_end": 0.9970457048367787,
+ "cohorts": {
+  "largest 10": {
+   "holders": 10,
+   "up": 1,
+   "flat": 3,
+   "down": 6,
+   "gone": 0,
+   "start": 2439346912.4305615,
+   "end": 2319269001.1237626
+  },
+  "ranks 11 to 100": {
+   "holders": 90,
+   "up": 41,
+   "flat": 37,
+   "down": 10,
+   "gone": 2,
+   "start": 1066516912.2169379,
+   "end": 1085179220.5382843
+  },
+  "ranks 101 to 1,000": {
+   "holders": 900,
+   "up": 145,
+   "flat": 698,
+   "down": 45,
+   "gone": 12,
+   "start": 439544185.4820194,
+   "end": 439159572.6206785
+  }
+ },
+ "top100_entered": 7,
+ "pools": {
+  "0x43a1dc107bbb06df266278056055ae7fc5bd2817": {
+   "name": "Reddex RBNT staking pool, no lock",
+   "address": "0x43a1dc107bbb06df266278056055ae7fc5bd2817",
+   "lock_days": 0,
+   "bal_start": 360594599.05,
+   "bal_end": 443228206.0,
+   "stake_start": 358606856.28,
+   "stake_end": 440677249.91,
+   "stake_change": 82070393.63,
+   "stake_change_pct": 22.89,
+   "stakers_start": 1156,
+   "stakers_end": 1140,
+   "stake_tx": 262,
+   "stake_accounts": 119,
+   "staked": 132965676.61,
+   "unstake_tx": 102,
+   "unstake_accounts": 63,
+   "unstaked": 50895282.98,
+   "claim_tx": 512,
+   "claim_accounts": 166,
+   "claimed": 4436786.68,
+   "rest_start": 1987742.78,
+   "rest_end": 2550956.09
+  },
+  "0x5e8040e85d0e6363d798a43bea939c026449946d": {
+   "name": "Reddex RBNT staking pool, 365 day lock",
+   "address": "0x5e8040e85d0e6363d798a43bea939c026449946d",
+   "lock_days": 365,
+   "bal_start": 278467723.85,
+   "bal_end": 311548346.16,
+   "stake_start": 277156292.0,
+   "stake_end": 310573757.56,
+   "stake_change": 33417465.56,
+   "stake_change_pct": 12.06,
+   "stakers_start": 223,
+   "stakers_end": 217,
+   "stake_tx": 227,
+   "stake_accounts": 69,
+   "staked": 63401240.22,
+   "unstake_tx": 51,
+   "unstake_accounts": 37,
+   "unstaked": 29983774.67,
+   "claim_tx": 523,
+   "claim_accounts": 99,
+   "claimed": 10336843.24,
+   "rest_start": 1311431.84,
+   "rest_end": 974588.6
+  }
+ },
+ "staked_total_start": 635763148.281773,
+ "stakers_unique_start": 1268,
+ "staked_share_of_community_start": 15.897478761134995,
+ "staked_total_end": 751251007.4696295,
+ "stakers_unique_end": 1255,
+ "staked_share_of_community_end": 18.5893334730344,
+ "named": {
+  "0xbcee2defb7cf136480e3619cf93e8129059977af": {
+   "name": "Team (Locked)",
+   "group": "reserved",
+   "start": 333909314.0,
+   "end": 333909314.0,
+   "in": 0.0,
+   "out": 0.0,
+   "n_in": 0,
+   "n_out": 0,
+   "fees": 0.0,
+   "recon": 0.0
+  },
+  "0x9a83957d3399cbbcbef2112797b4a5b8e58c63d4": {
+   "name": "Governance (Locked)",
+   "group": "reserved",
+   "start": 133333334.0,
+   "end": 100000001.0,
+   "in": 0.0,
+   "out": 33333333.0,
+   "n_in": 0,
+   "n_out": 1,
+   "fees": 0.0,
+   "recon": 0.0
+  },
+  "0x9e678318539d7c98057e9f89c58fb8f99752faea": {
+   "name": "Governance (Unlocked)",
+   "group": "reserved",
+   "start": 66666756.0,
+   "end": 100000089.0,
+   "in": 33333333.0,
+   "out": 0.0,
+   "n_in": 1,
+   "n_out": 0,
+   "fees": 0.0,
+   "recon": 0.0
+  },
+  "0xac27381ef74457c1258d54a808c2461eedc56270": {
+   "name": "USYD/CSIRO (Locked)",
+   "group": "reserved",
+   "start": 200000000.0,
+   "end": 200000000.0,
+   "in": 0.0,
+   "out": 0.0,
+   "n_in": 0,
+   "n_out": 0,
+   "fees": 0.0,
+   "recon": 0.0
+  },
+  "0xef816d556e01bc194ae302999930eacd6dc4e566": {
+   "name": "Investors",
+   "group": "reserved",
+   "start": 0.0,
+   "end": 253115670.0,
+   "in": 253115670.0,
+   "out": 0.0,
+   "n_in": 1,
+   "n_out": 0,
+   "fees": 0.0,
+   "recon": 0.0
+  },
+  "0x7473feaf836b5319d9190d8367991dc6ef33c16d": {
+   "name": "Reserve",
+   "group": "reserved",
+   "start": 2000000000.0,
+   "end": 2000000000.0,
+   "in": 0.0,
+   "out": 0.0,
+   "n_in": 0,
+   "n_out": 0,
+   "fees": 0.0,
+   "recon": 0.0
+  },
+  "0xc5c131572d232512973e79204b93c2c1d57c879d": {
+   "name": "Ecosystem (Locked)",
+   "group": "reserved",
+   "start": 2794132788.0,
+   "end": 2294132788.0,
+   "in": 0.0,
+   "out": 500000000.0,
+   "n_in": 0,
+   "n_out": 1,
+   "fees": 0.0,
+   "recon": 0.0
+  },
+  "0xe0c701c40166bbd8d5f5ec33c123f0a03e902df7": {
+   "name": "Ecosystem 2 (Unlocked)",
+   "group": "reserved",
+   "start": 377838567.0,
+   "end": 624722897.0,
+   "in": 500000000.0,
+   "out": 253115670.0,
+   "n_in": 1,
+   "n_out": 1,
+   "fees": 0.0,
+   "recon": 0.0
+  },
+  "0x415cad8fc89f75a63c5b830e06460eecde083c9f": {
+   "name": "Ecosystem (Unlocked)",
+   "group": "reserved",
+   "start": 68892664.47440696,
+   "end": 25080271.244353283,
+   "in": 0.0,
+   "out": 43796669.0,
+   "n_in": 0,
+   "n_out": 31,
+   "fees": 15724.23005367072,
+   "recon": 0.0
+  },
+  "0x6ed1f491e2d31536d6561f6bdb2adc8f092a6076": {
+   "name": "Wrapped RBNT (WRBNT) contract",
+   "group": "wrbnt",
+   "start": 1819066450.6643624,
+   "end": 1736902022.3492532,
+   "in": 38674775.74146903,
+   "out": 120839204.05657835,
+   "n_in": 240,
+   "n_out": 1268,
+   "fees": 0.0,
+   "recon": 0.0
+  },
+  "0x43a1dc107bbb06df266278056055ae7fc5bd2817": {
+   "name": "Reddex RBNT staking pool, no lock",
+   "group": "staking",
+   "start": 360594599.05372727,
+   "end": 443228206.0028954,
+   "in": 137965676.6065331,
+   "out": 55332069.657364994,
+   "n_in": 265,
+   "n_out": 614,
+   "fees": 0.0,
+   "recon": 0.0
+  },
+  "0x5e8040e85d0e6363d798a43bea939c026449946d": {
+   "name": "Reddex RBNT staking pool, 365 day lock",
+   "group": "staking",
+   "start": 278467723.84535205,
+   "end": 311548346.16136914,
+   "in": 73401240.22230017,
+   "out": 40320617.90628305,
+   "n_in": 229,
+   "n_out": 574,
+   "fees": 0.0,
+   "recon": 0.0
+  }
+ },
+ "reserved_start": 5974773423.474407,
+ "reserved_end": 5930961030.244353,
+ "exchanges_labelled": 0,
+ "reserved_wrbnt_start": 35937.88767231838,
+ "reserved_staked_start": 0.0,
+ "reserved_wrbnt_end": 28257.105841937908,
+ "reserved_staked_end": 0.0,
+ "checks": {
+  "WRBNT supply minus RBNT held by the WRBNT contract, start": 0.0,
+  "WRBNT supply minus RBNT held by the WRBNT contract, end": 0.0,
+  "WRBNT supply minus WRBNT found with holders, start": 0.0,
+  "WRBNT supply minus WRBNT found with holders, end": 0.0,
+  "positions total minus native total, start": 0.0,
+  "positions total minus native total, end": 0.0,
+  "pool 0x43a1 totalStake minus sum of stakers, start": 0.0,
+  "pool 0x43a1 totalStake minus sum of stakers, end": 0.0,
+  "pool 0x5e80 totalStake minus sum of stakers, start": 0.0,
+  "pool 0x5e80 totalStake minus sum of stakers, end": 0.0,
+  "reconciliation gap, Team (Locked)": 0.0,
+  "reconciliation gap, Governance (Locked)": 0.0,
+  "reconciliation gap, Governance (Unlocked)": 0.0,
+  "reconciliation gap, USYD/CSIRO (Locked)": 0.0,
+  "reconciliation gap, Investors": 0.0,
+  "reconciliation gap, Reserve": 0.0,
+  "reconciliation gap, Ecosystem (Locked)": 0.0,
+  "reconciliation gap, Ecosystem 2 (Unlocked)": 0.0,
+  "reconciliation gap, Ecosystem (Unlocked)": 0.0,
+  "reconciliation gap, Wrapped RBNT (WRBNT) contract": 0.0,
+  "reconciliation gap, Reddex RBNT staking pool, no lock": 0.0,
+  "reconciliation gap, Reddex RBNT staking pool, 365 day lock": 0.0
+ }
+}

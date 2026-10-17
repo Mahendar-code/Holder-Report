@@ -1,0 +1,21 @@
+{
+ "retrieved": "2026-10-17",
+ "files": [
+  {
+   "what": "Redbelly DAO treasury page script holding the reserved wallet table (names, addresses, launch allocations)",
+   "url": "https://redbellydao.network/_next/static/chunks/pages/treasury-3a5a788162c21c2c.js",
+   "sha256": "74a283c0bb410d6c72cb8d6bf11257d468fe5ef70bd521e4e26f7073f81ad6f7",
+   "extracted_to": "content/treasury_allocations.json and content/named_wallets.json"
+  },
+  {
+   "what": "Verified source code of the Reddex no lock pool (ReddexRBNTLockStaker)",
+   "url": "https://redbelly.routescan.io/address/0x43A1dc107BBb06dF266278056055AE7Fc5bd2817/contract/151/code",
+   "sha256": "cfb1771f4b740b293d6859d6274e759632b9e3d647f464b8294ec1b1737fa424"
+  },
+  {
+   "what": "Verified source code of the Reddex 365 day pool (ReddexRBNTLockStaker)",
+   "url": "https://redbelly.routescan.io/address/0x5E8040e85D0E6363D798a43BEa939C026449946d/contract/151/code",
+   "sha256": "55583c547eabd9fcd36c552d2e7dbadc8a7a419a16741a769f49ff69065523c7"
+  }
+ ]
+}

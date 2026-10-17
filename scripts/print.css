@@ -1,0 +1,27 @@
+/* PDF: the same page, light, one column, the dark band kept as the cover */
+@page{size:A4;margin:14mm 0 16mm}
+body.print{background:#fff;font-size:10.5pt;line-height:1.5}
+.print .band{-webkit-print-color-adjust:exact;print-color-adjust:exact;margin:-14mm 0 0;break-after:page;min-height:281mm;display:flex;align-items:center}
+.print .band-in{padding:0 16mm;width:100%}
+.print .band h1{font-size:40pt}
+.print .tiles{grid-template-columns:repeat(2,1fr)}
+.print main{padding:0 16mm}
+.print section{border:0;padding:0 0 6mm;break-before:auto}
+.print section+section{padding-top:4mm}
+.print h2{font-size:18pt;break-after:avoid}
+.print h3{break-after:avoid}
+.print .num{break-after:avoid}
+.print p,.print li{max-width:none;orphans:3;widows:3}
+.print .answer{font-size:11.5pt;break-inside:avoid}
+.print figure,.print .solo,.print .plain{break-inside:avoid;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.print figure svg{min-width:0;width:100%}
+.print .rise{opacity:1!important;transform:none!important}
+.print table{font-size:8pt}
+.print th,.print td{padding:4px 6px}
+.print a{color:#B3272A}
+.print #method,.print #sources{break-before:page}
+.print .tw{overflow:visible;padding:0 10px 10px}
+.print table{font-size:7.2pt}
+.print td.r{font-size:7pt}
+.print td:first-child{min-width:0}
+.print th{font-size:7pt}

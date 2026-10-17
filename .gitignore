@@ -1,0 +1,6 @@
+.credit-names
+.credit-links
+__pycache__/
+build/
+data/raw/
+raw/

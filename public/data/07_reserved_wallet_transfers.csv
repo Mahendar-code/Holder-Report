@@ -1,0 +1,12 @@
+reserved wallet,counterparty,transfers in,RBNT in,transfers out,RBNT out
+Governance (Locked),Governance (Unlocked),0,0.0,1,33333333.0
+Governance (Unlocked),Governance (Locked),1,33333333.0,0,0.0
+Investors,Ecosystem 2 (Unlocked),1,253115670.0,0,0.0
+Ecosystem (Locked),Ecosystem 2 (Unlocked),0,0.0,1,500000000.0
+Ecosystem 2 (Unlocked),Ecosystem (Locked),1,500000000.0,0,0.0
+Ecosystem 2 (Unlocked),Investors,0,0.0,1,253115670.0
+Ecosystem (Unlocked),"Reddex RBNT staking pool, 365 day lock",0,0.0,2,10000000.0
+Ecosystem (Unlocked),"Reddex RBNT staking pool, no lock",0,0.0,3,5000000.0
+Ecosystem (Unlocked),Wrapped RBNT (WRBNT) contract,0,0.0,2,25100000.0
+Ecosystem (Unlocked),unlabelled contracts,0,0.0,2,200000.0
+Ecosystem (Unlocked),unlabelled wallets,0,0.0,22,3496669.0

@@ -1,0 +1,10 @@
+place,RBNT at start,% at start,RBNT at end,% at end,change,addresses with 1+ RBNT at start,at end
+Redbelly reserved wallets,5974773423.47,59.88,5930961030.24,59.45,-43812393.23,8,9
+Reddex pools: staked RBNT,635763148.28,6.37,751251007.47,7.53,115487859.19,,
+Reddex pools: reward funds,3299174.62,0.03,3525544.69,0.04,226370.08,,
+Wrapped RBNT contract (backs WRBNT one to one),1819066450.66,18.23,1736902022.35,17.41,-82164428.32,1,1
+Labelled exchange wallets,0.0,0.0,0.0,0.0,0.0,,
+Other addresses named on Routescan,0.0,0.0,0.0,0.0,0.0,,
+Other contracts,435049525.11,4.36,440045718.2,4.41,4996193.09,46,51
+Other wallets,1109301318.65,11.12,1113130982.1,11.16,3829663.45,46247,46393
+Total,9977253040.81,100,9975816305.06,100,-1436735.74,,

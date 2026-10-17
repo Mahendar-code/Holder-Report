@@ -1,0 +1,6 @@
+group,RBNT at start,share of community holdings at start (%),RBNT at end,share at end (%),change (percentage points)
+largest 10,2439346912.43,61.0,2402341866.75,59.44,-1.55
+largest 100,3505863824.65,87.67,3526708737.2,87.27,-0.4
+"largest 1,000",3945408010.13,98.66,3987168554.63,98.66,0.0
+"largest 10,000",3998866419.62,99.99,4041020173.68,99.99,-0.0
+"Gini coefficient of holders with 1+ RBNT (0 = all equal, 1 = one holder has everything)",,0.9971,,0.997,-0.0001
